@@ -1,0 +1,12 @@
+class Program{
+	void abc(int a){
+		int f,g,h;
+		f=10;
+		g=20;
+		h=f+g;
+		/*wromil sucks 
+		romil is blood sucking*/
+		
+		//fddf=true;
+	}
+}
